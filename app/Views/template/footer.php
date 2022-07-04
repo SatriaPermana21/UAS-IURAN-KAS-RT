@@ -16,7 +16,7 @@
             </aside>
         </section>
         <footer>
-            <p>&copy; 2021 - Universitas Pelita Bangsa  |  Nama Mahasiswa : Rulli Aji Gunawan  |  NIM : 311910675  |  Kelas : TI.19.C.1</p>
+            <p>&copy; 2021 - Universitas Pelita Bangsa  |  Nama Mahasiswa : Muhammad Safri Satria Permana  |  NIM : 312010337  |  Kelas : TI.20.A2</p>
         </footer>
         </div>
     </body>
