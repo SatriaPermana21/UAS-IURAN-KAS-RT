@@ -14,6 +14,6 @@ Universitas Pelita Bangsa
 # Akses Admin
 | Username | Password |
 | ------ | ------ |
-| admin | admin |
+| admin@gmail.com | admin |
 
 
